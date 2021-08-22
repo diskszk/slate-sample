@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/slate": "^0.47.9",
+    "@types/slate-react": "^0.50.1",
+    "slate": "^0.65.3",
+    "slate-react": "^0.65.3"
   }
 }
