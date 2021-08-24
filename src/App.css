@@ -1,5 +1,27 @@
+html {
+  height: 100vh;
+  margin: 0;
+  background-color: azure;
+}
 .App {
   text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+code {
+  background-color: rgb(231, 231, 231);
+}
+hr {
+  width: 60%;
+}
+
+.editor {
+  text-align: left;
+  background-color: white;
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 12px;
+  min-height: 200px;
 }
 
 .App-logo {
