@@ -24,6 +24,15 @@ hr {
   min-height: 200px;
 }
 
+.tool-bar {
+  width: 100%;
+  display: flex;
+  background-color: rgb(213, 213, 213);
+}
+
+.tool-bar > button {
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
